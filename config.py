@@ -1,1 +1,1 @@
-TOKEN = "MTM5NzI4ODkyODkxMzkxNjA2NQ.GG4In-.Bq_JCErLs-ozqwaFHe-GEZKUGhf4ombN6Ik_Fk"
+TOKEN = tokenim
